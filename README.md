@@ -9,7 +9,7 @@ Responsive Design: Works on desktop and mobile devices.
 ## Demo
 Check out the live demo here [ToDo](https://iamvibhav.github.io/ToDo-App/)
 
-# Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
