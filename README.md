@@ -1,3 +1,17 @@
 # Todo App
+Welcome to the Todo App project! This is a simple web application built using HTML, CSS, and JavaScript to manage your daily tasks.
 
-This Todo App is a project developed during my internship at Oasis Infobyte. It is designed to help users organize their tasks efficiently, prioritize activities, and boost productivity. The app provides a sleek and intuitive interface for managing tasks, with both backend and frontend components implemented to ensure a seamless user experience.
+## Features
+Task Management: Add, edit, delete tasks.
+Task Status: Mark tasks as complete/incomplete.
+Local Storage: Persist tasks locally.
+Responsive Design: Works on desktop and mobile devices.
+## Demo
+Check out the live demo here [ToDo](https://iamvibhav.github.io/OIBSIP_To-Do-App/)
+
+# Technologies Used
+HTML
+CSS
+JavaScript
+
+![image](https://github.com/iamvibhav/OIBSIP_To-Do-App/assets/139247683/ae20da84-2f25-4aaf-b6d0-a8ec5653c6ca)
