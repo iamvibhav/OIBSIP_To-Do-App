@@ -7,7 +7,7 @@ Task Status: Mark tasks as complete/incomplete.
 Local Storage: Persist tasks locally.
 Responsive Design: Works on desktop and mobile devices.
 ## Demo
-Check out the live demo here [ToDo](https://iamvibhav.github.io/OIBSIP_To-Do-App/)
+Check out the live demo here [ToDo](https://iamvibhav.github.io/ToDo-App/)
 
 # Technologies Used
 HTML
